@@ -68,4 +68,5 @@
 
 - import SVG file (OK)
 - Typescript (OK)
-- react-router-dom 
+- react-router-dom (OK)
+  (Don't put 'homepage' attribute in package.json)
