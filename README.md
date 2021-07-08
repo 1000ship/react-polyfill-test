@@ -18,7 +18,10 @@
 
   ` export const isIE = /* @cc_on!@ */ false || !!(document as any).documentMode;`
 
-- Check out at this page : http://1000ship.github.io/react-polyfill-test
+- Check out at this page
+
+  - Main Page : http://1000ship.github.io/react-polyfill-test
+  - Another Page : http://1000ship.github.io/react-polyfill-test/#/another
 
 
 

@@ -1,7 +1,10 @@
-import App from 'App';
-import MainContext, { defaultValue, IMainContext } from 'contexts/MainContext';
 import React, { useState } from 'react';
 import { HashRouter as Router, Switch, Route } from 'react-router-dom';
+import App from './App';
+import MainContext, {
+  defaultValue,
+  IMainContext,
+} from './contexts/MainContext';
 
 const Root: React.FC = () => {
   const [context, setContext] = useState<IMainContext>(defaultValue);
