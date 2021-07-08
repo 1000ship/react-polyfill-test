@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-polyfill-test/static/css/main.cf6494cd.chunk.css",
+    "main.js": "/react-polyfill-test/static/js/main.7682689b.chunk.js",
+    "main.js.map": "/react-polyfill-test/static/js/main.7682689b.chunk.js.map",
+    "runtime-main.js": "/react-polyfill-test/static/js/runtime-main.45124d9a.js",
+    "runtime-main.js.map": "/react-polyfill-test/static/js/runtime-main.45124d9a.js.map",
+    "static/js/2.ddf68745.chunk.js": "/react-polyfill-test/static/js/2.ddf68745.chunk.js",
+    "static/js/2.ddf68745.chunk.js.map": "/react-polyfill-test/static/js/2.ddf68745.chunk.js.map",
+    "static/js/3.a5cdb5ac.chunk.js": "/react-polyfill-test/static/js/3.a5cdb5ac.chunk.js",
+    "static/js/3.a5cdb5ac.chunk.js.map": "/react-polyfill-test/static/js/3.a5cdb5ac.chunk.js.map",
+    "index.html": "/react-polyfill-test/index.html",
+    "static/css/main.cf6494cd.chunk.css.map": "/react-polyfill-test/static/css/main.cf6494cd.chunk.css.map",
+    "static/js/2.ddf68745.chunk.js.LICENSE.txt": "/react-polyfill-test/static/js/2.ddf68745.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-polyfill-test/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45124d9a.js",
+    "static/js/2.ddf68745.chunk.js",
+    "static/css/main.cf6494cd.chunk.css",
+    "static/js/main.7682689b.chunk.js"
+  ]
+}
