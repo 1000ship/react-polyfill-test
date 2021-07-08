@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf6494cd.chunk.css",
-    "main.js": "/static/js/main.c3fbcffb.chunk.js",
-    "main.js.map": "/static/js/main.c3fbcffb.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.153c2ffe.js",
-    "runtime-main.js.map": "/static/js/runtime-main.153c2ffe.js.map",
-    "static/js/2.222f7293.chunk.js": "/static/js/2.222f7293.chunk.js",
-    "static/js/2.222f7293.chunk.js.map": "/static/js/2.222f7293.chunk.js.map",
-    "static/js/3.70d671ff.chunk.js": "/static/js/3.70d671ff.chunk.js",
-    "static/js/3.70d671ff.chunk.js.map": "/static/js/3.70d671ff.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.cf6494cd.chunk.css.map": "/static/css/main.cf6494cd.chunk.css.map",
-    "static/js/2.222f7293.chunk.js.LICENSE.txt": "/static/js/2.222f7293.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "https://1000ship.github.io/react-polyfill-test/static/css/main.cf6494cd.chunk.css",
+    "main.js": "https://1000ship.github.io/react-polyfill-test/static/js/main.c3fbcffb.chunk.js",
+    "main.js.map": "https://1000ship.github.io/react-polyfill-test/static/js/main.c3fbcffb.chunk.js.map",
+    "runtime-main.js": "https://1000ship.github.io/react-polyfill-test/static/js/runtime-main.9bd5919c.js",
+    "runtime-main.js.map": "https://1000ship.github.io/react-polyfill-test/static/js/runtime-main.9bd5919c.js.map",
+    "static/js/2.36e9ec7c.chunk.js": "https://1000ship.github.io/react-polyfill-test/static/js/2.36e9ec7c.chunk.js",
+    "static/js/2.36e9ec7c.chunk.js.map": "https://1000ship.github.io/react-polyfill-test/static/js/2.36e9ec7c.chunk.js.map",
+    "static/js/3.70d671ff.chunk.js": "https://1000ship.github.io/react-polyfill-test/static/js/3.70d671ff.chunk.js",
+    "static/js/3.70d671ff.chunk.js.map": "https://1000ship.github.io/react-polyfill-test/static/js/3.70d671ff.chunk.js.map",
+    "index.html": "https://1000ship.github.io/react-polyfill-test/index.html",
+    "static/css/main.cf6494cd.chunk.css.map": "https://1000ship.github.io/react-polyfill-test/static/css/main.cf6494cd.chunk.css.map",
+    "static/js/2.36e9ec7c.chunk.js.LICENSE.txt": "https://1000ship.github.io/react-polyfill-test/static/js/2.36e9ec7c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "https://1000ship.github.io/react-polyfill-test/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.153c2ffe.js",
-    "static/js/2.222f7293.chunk.js",
+    "static/js/runtime-main.9bd5919c.js",
+    "static/js/2.36e9ec7c.chunk.js",
     "static/css/main.cf6494cd.chunk.css",
     "static/js/main.c3fbcffb.chunk.js"
   ]
