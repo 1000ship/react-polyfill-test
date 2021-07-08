@@ -1,27 +1,54 @@
 # Let's check how many features works in IE
 
-# JS
+- Only production mode supports IE browser
 
-- useState
-- useEffect
-- fetch
+  ` "start:ie": "nodemon --watch 'src/**/*' -e ts,tsx,css --exec 'yarn build && serve -s build'"`
 
-# CSS
+- Recognize IE browser
+
+  ` export const isIE = /* @cc_on!@ */ false || !!(document as any).documentMode;`
+
+
+
+## JS
+
+- useState (OK)
+- useEffect (OK)
+- fetch (OK)
+
+
+
+## CSS
 
 - flexbox (NO)
+
+  ```css
+  .like_flexbox {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+  }
+  ```
+
+  
+
 - animation (NO)
+
 - Unit 'vw', 'vh' (OK)
 
+- cursor (OK)
+
+- @media query 
 
 
-# Module
 
-- axios
+## Module
+
 - styled-components
 
 
 
-# Other
+## Other
 
 - import SVG file (OK)
 - Typescript (OK)
