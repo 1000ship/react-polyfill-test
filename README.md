@@ -1,5 +1,15 @@
 # Let's check how many features works in IE
 
+## 
+
+| Not IE                                       | IE                                       |
+| -------------------------------------------- | ---------------------------------------- |
+| <img src=".readme/not-ie.png" height="400"/> | <img src=".readme/ie.png" height="400"/> |
+
+
+
+## Memo
+
 - Only production mode supports IE browser
 
   ` "start:ie": "nodemon --watch 'src/**/*' -e ts,tsx,css --exec 'yarn build && serve -s build'"`
@@ -8,9 +18,7 @@
 
   ` export const isIE = /* @cc_on!@ */ false || !!(document as any).documentMode;`
 
-- Check out at this page
-
-  ` http://1000ship.github.io/react-polyfill-test`
+- Check out at this page : http://1000ship.github.io/react-polyfill-test
 
 
 
