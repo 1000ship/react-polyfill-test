@@ -1,8 +1,4 @@
-# Let's check
-
-- [x] Show create-react-app
-
-
+# Let's check how many features works in IE
 
 # JS
 
@@ -28,3 +24,4 @@
 # Other
 
 - import SVG file (OK)
+- Typescript (OK)
