@@ -8,6 +8,10 @@
 
   ` export const isIE = /* @cc_on!@ */ false || !!(document as any).documentMode;`
 
+- Check out at this page
+
+  ` http://1000ship.github.io/react-polyfill-test`
+
 
 
 ## JS
@@ -56,3 +60,4 @@
 
 - import SVG file (OK)
 - Typescript (OK)
+- react-router-dom 
