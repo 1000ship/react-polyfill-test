@@ -12,8 +12,12 @@
 
 ## JS
 
+- async-await / Promise (OK)
 - useState (OK)
 - useEffect (OK)
+- useRef (OK)
+- useCallback (OK)
+- useContext (OK)
 - fetch (OK)
 
 
@@ -38,13 +42,13 @@
 
 - cursor (OK)
 
-- @media query 
+- @media query (OK)
 
 
 
 ## Module
 
-- styled-components
+- styled-components (OK)
 
 
 

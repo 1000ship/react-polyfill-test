@@ -14,26 +14,6 @@
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-width: 100vw;
-  min-height: 100vh;
-
-  /* for IE */
-  display: table-cell;
-  text-align: center;
-  vertical-align: middle;
-
-  /* for Others */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
 .App-link {
   color: #61dafb;
 }
